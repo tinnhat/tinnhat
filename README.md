@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Front-end**
 
-- 📫 How to reach me **https://nhattin.netlify.app/**
+- 📫 How to reach me **tinnhat0412@gmail.com - 0834667431**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
