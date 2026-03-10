@@ -71,7 +71,7 @@ goal: Becoming a Fullstack Developer to build complete solutions
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tinnhat&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=888888" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tinnhat&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=888888" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img height="180" src="https://streak-stats.demolab.com/?user=tinnhat&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
@@ -79,7 +79,7 @@ goal: Becoming a Fullstack Developer to build complete solutions
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnhat&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=888888&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tinnhat&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=888888&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
