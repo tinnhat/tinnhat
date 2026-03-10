@@ -71,27 +71,15 @@ goal: Becoming a Fullstack Developer to build complete solutions
 ## GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tinnhat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tinnhat&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tinnhat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
-  </picture>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tinnhat&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=888888" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tinnhat&theme=tokyonight&hide_border=true&background=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tinnhat&theme=default&hide_border=true" />
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tinnhat&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </picture>
+  <img height="180" src="https://streak-stats.demolab.com/?user=tinnhat&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnhat&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnhat&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=888888&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
